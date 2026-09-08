@@ -1,98 +1,73 @@
-# Portfolio Website - Farhath Manas V S
+# FARHATH MANAS V S — Data Analyst Portfolio
 
-A modern, interactive portfolio website showcasing my projects and skills as a Full-Stack Python Developer.
+A recruiter-focused portfolio showcasing practical analytics work across SQL, Excel, Power BI, and Python.
 
-## 🌐 Live Demo
+## About
+**FARHATH MANAS V S**
 
-Visit the live site: `https://[your-username].github.io/portfolio/`
+Fresher Data Analyst profile focused on turning structured data into clear analysis, KPIs, visualizations, and business-oriented insights.
 
-*(Replace `[your-username]` with your GitHub username after deploying)*
+## Analytics Toolkit
 
-## ✨ Features
+**SQL** · Querying · Aggregation · Business Analysis  
+**Microsoft Excel** · Data Preparation · Formulas · KPI Reporting  
+**Power BI** · Dashboard Design · KPI Storytelling · Interactive Reporting  
+**Python** · Pandas · Matplotlib · Exploratory Data Analysis
 
-- **Modern Design**: Glassmorphism effects, smooth animations, and responsive layout
-- **Interactive Demos**: Live previews of 4 major projects:
-  - YouTube MP3/Video Downloader (Django + Celery)
-  - Inventory & Billing Desktop App (Tkinter + SQLite)
-  - Resume Builder Web App (Django)
-  - E-Commerce Web App (Django + MySQL)
-- **Fully Responsive**: Works seamlessly on desktop, tablet, and mobile devices
-- **Smooth Animations**: Fade-in effects, hover transitions, and smooth scrolling
-- **No Dependencies**: Pure HTML, CSS, and Vanilla JavaScript
+## Featured Analytics Projects
 
-## 🚀 Deployment to GitHub Pages
+### 01 — Sales Performance Analysis
+**SQL + Python**
 
-### Step 1: Create a GitHub Repository
+Revenue, profit, product, regional, channel, and monthly performance analysis.
 
-1. Go to [GitHub](https://github.com) and create a new repository
-2. Name it `portfolio` (or any name you prefer)
-3. Make it **public** (required for free GitHub Pages)
-4. **Don't** initialize with README, .gitignore, or license
+[Open Project →](https://github.com/iamfarhathmanas/sales-performance-analysis)
 
-### Step 2: Upload Files
+### 02 — Customer Churn Analysis
+**SQL + Python**
 
-**Option A: Using GitHub Web Interface**
-1. Click "uploading an existing file"
-2. Drag and drop `index.html` and `README.md`
-3. Commit the changes
+Churn measurement, contract and tenure segmentation, support activity, and retention-focused analysis.
 
-**Option B: Using Git Command Line**
-```bash
-cd "C:\Users\farha\Web Development\portfolio"
-git init
-git add index.html README.md .gitignore
-git commit -m "Initial commit: Portfolio website"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
-git push -u origin main
-```
+[Open Project →](https://github.com/iamfarhathmanas/customer-churn-analysis)
 
-### Step 3: Enable GitHub Pages
+### 03 — HR Analytics — Employee Attrition
+**SQL + Python**
 
-1. Go to your repository on GitHub
-2. Click **Settings** → Scroll to **Pages**
-3. Under **Source**, select **Deploy from a branch**
-4. Choose **main** branch and **/ (root)** folder
-5. Click **Save**
-6. Wait 1-2 minutes for deployment
-7. Your site will be live at: `https://YOUR_USERNAME.github.io/portfolio/`
+Attrition KPIs and workforce analysis across department, tenure, performance, salary, and work patterns.
 
-## 📁 Project Structure
+[Open Project →](https://github.com/iamfarhathmanas/hr-analytics-employee-attrition)
 
-```
-portfolio/
-├── index.html          # Main HTML file (required for GitHub Pages)
-├── README.md          # This file
-└── .gitignore         # Git ignore file
-```
+### 04 — Retail Sales Performance
+**Excel + Power BI**
 
-## 🛠️ Technologies Used
+Structured sales reporting, KPI analysis, product and regional performance, and dashboard design.
 
-- **HTML5**: Semantic markup
-- **CSS3**: Modern styling with CSS Variables, Flexbox, Grid, Animations
-- **Vanilla JavaScript**: No frameworks, pure JS for interactivity
-- **GitHub Pages**: Free hosting
+[Open Project →](https://github.com/iamfarhathmanas/retail-sales-excel-powerbi)
 
-## 📝 Customization
+### 05 — Employee Attrition Analysis
+**Excel + Power BI**
 
-To customize this portfolio:
+HR KPI reporting, attrition segmentation, tenure analysis, and Power BI dashboard planning.
 
-1. **Update Personal Information**: Edit the contact details in the `#about` section
-2. **Add Projects**: Add new project cards in the `#projects` section
-3. **Modify Colors**: Change CSS variables in the `:root` selector
-4. **Update Skills**: Modify the skills array in the hero section
+[Open Project →](https://github.com/iamfarhathmanas/employee-attrition-excel-powerbi)
 
-## 📧 Contact
+## Education
+**SSLC — Manba Ul Ula Higher Secondary School, Koothanallur**  
+**2019**
 
-- **Email**: vs.farhathmanas@gmail.com
-- **GitHub**: [github.com/iamfarhathmanas](https://github.com/iamfarhathmanas)
-- **LinkedIn**: [linkedin.com/in/iamfarhathmanas](https://www.linkedin.com/in/iamfarhathmanas)
+## How I Work
 
-## 📄 License
+- Start with a clear business question.
+- Validate and structure the data.
+- Analyze using the appropriate tool.
+- Convert results into decision-ready KPIs and visuals.
+- Document the workflow so the analysis is easy to review.
 
-This project is open source and available for personal use.
+## Portfolio Data Policy
 
----
+Projects use generated practice datasets unless otherwise stated. Portfolio work is presented transparently and does not claim employer or client ownership.
 
-Made with ❤️ using HTML, CSS & Vanilla JavaScript
+## Contact
 
+**Email:** vs.farhathmanas@gmail.com  
+**GitHub:** https://github.com/iamfarhathmanas
